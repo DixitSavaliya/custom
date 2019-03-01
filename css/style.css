@@ -166,7 +166,7 @@ ul{
 }
 .mdc-text-field,
 .mdc-select {
-	height: 35px!important;
+	height: 37px!important;
 	width: 500px !important;
 }
 .mdc-text-field--outlined .mdc-floating-label,
@@ -260,7 +260,7 @@ ul{
 }
 .slider-2{
 
-	background-image: url('../images/t1.jpg');
+	background-image: url('../images/t5.jpg');
 	height: 500px;
 	width: 100%;
 	background-repeat: no-repeat;
